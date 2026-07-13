@@ -1,0 +1,1 @@
+# HowtoFixWindowsDefenderError0x800106BA
